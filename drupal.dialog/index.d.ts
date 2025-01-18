@@ -23,4 +23,3 @@ declare global {
     var dialog: (element: HTMLElement|JQuery<HTMLElement>, options?: JQueryUI.DialogOptions) => dialogDefinition
   }
 }
-
