@@ -1,6 +1,6 @@
 # TypeScript definition for Drupal core
 
-This library provides TypeScript definition for Drupal frontend developing.
+This project provides Drupal core TypeScript definitions for Drupal frontend developing.
 
 ## Supporting Drupal core version
 
