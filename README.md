@@ -1,4 +1,4 @@
-# TypeScript definition for Drupal core
+# TypeScript definitions for Drupal core
 
 This project provides Drupal core TypeScript definitions for Drupal frontend developing.
 
