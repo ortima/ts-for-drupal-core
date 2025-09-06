@@ -10,7 +10,7 @@
     "@types/jqueryui": "^1"
   },
   "devDependencies": {
-    "typescript": "~5.7"
+    "typescript": "~5.9"
   },
   "scripts": {
     "test": "tsc -p ./tsconfig.tests.json"
