@@ -9,6 +9,7 @@ Drupal 11
 ## How to use
 
 1. Add this repogitory git url to the devDependencies using Node.js package manager like yarn or npm.
+    - `npm i -D git+ssh://git@git.drupal.org:project/ts_for_core.git#VERSION`
 2. Configure TypeScript module settings to tsconfig.json like below.
 3. Add import type statement on your TypeScript code to load the Drupal core TypeScript definition.
 The library definition is almost same as `core.libraries.yml` definition but **drupalSettings and once.js are not same.** See below example code.
@@ -34,6 +35,10 @@ import type {} from 'ts_for_core/drupal.ajax';
 import type {} from 'ts_for_core/drupal_settings';
 import type {} from 'ts_for_core/@drupal__once'
 ```
+
+### Actually used project
+
+- [Dialog Native](https://www.drupal.org/project/dialog_native)
 
 ## Extends Drupal specific type
 
