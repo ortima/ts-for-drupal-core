@@ -1,10 +1,22 @@
 {
   "name": "ts_for_core",
-  "description": "TypeScript declarations for Drupal core.",
+  "description": "TypeScript declarations for Drupal core (forked from drupalcode.org)",
+  "author": "Drupal contributors, modified by ortima",
   "version": "0.0.1",
   "license": "GPL-2.0-or-later",
   "types": "index.d.ts",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ortima/ts_for_core"
+  },
+  "homepage": "https://git.drupalcode.org/project/ts_for_core",
+  "bugs": {
+    "url": "https://github.com/ortima/ts_for_core/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "@types/jquery": "^3",
     "@types/jqueryui": "^1"
