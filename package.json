@@ -8,11 +8,11 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ortima/ts_for_core"
+    "url": "https://github.com/ortima/ts-for-drupal-core"
   },
   "homepage": "https://git.drupalcode.org/project/ts_for_core",
   "bugs": {
-    "url": "https://github.com/ortima/ts_for_core/issues"
+    "url": "https://github.com/ortima/ts-for-drupal-core/issues"
   },
   "engines": {
     "node": ">=18"
