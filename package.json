@@ -2,7 +2,7 @@
   "name": "ts_for_core",
   "description": "TypeScript declarations for Drupal core (forked from drupalcode.org)",
   "author": "Drupal contributors, modified by ortima",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "license": "GPL-2.0-or-later",
   "types": "index.d.ts",
   "private": true,
