@@ -112,7 +112,7 @@ declare global {
 
 ## FAQ
 
-### I don't want to write `ts_for_core/` prefix everytime.
+### I don't want to write `ts-for-drupal-core/` prefix everytime.
 
 1. Create TypeScript base settings file named like tsconfig.base.json on the same directory which located the project package.json.
 2. Configure paths settings for tsconfig.base.json like below.
